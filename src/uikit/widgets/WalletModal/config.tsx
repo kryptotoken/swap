@@ -1,25 +1,20 @@
-import Metamask from "./icons/Metamask";
-import TrustWallet from "./icons/TrustWallet";
-import WalletConnect from "./icons/WalletConnect";
-import { Config } from "./types";
+import Metamask from './icons/Metamask'
+import TrustWallet from './icons/TrustWallet'
+import WalletConnect from './icons/WalletConnect'
+import { Config } from './types'
 
 const connectors: Config[] = [
   {
-    title: "Metamask",
+    title: 'Metamask',
     icon: Metamask,
-    connectorId: "injected",
+    connectorId: 'injected'
   },
   {
-    title: "TrustWallet",
-    icon: TrustWallet,
-    connectorId: "injected",
-  },
-  {
-    title: "WalletConnect",
+    title: 'WalletConnect',
     icon: WalletConnect,
-    connectorId: "walletconnect",
-  },
-];
+    connectorId: 'walletconnect'
+  }
+]
 
-export default connectors;
-export const localStorageKey = "accountStatus";
+export default connectors
+export const localStorageKey = 'accountStatus'
