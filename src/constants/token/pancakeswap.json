@@ -1,0 +1,30 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "SISHI Token",
+      "symbol": "SISHI",
+      "address": "0x8e8538c75f273ab2df6adeecd3622a9c314fccf3",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/SISHI.png"
+    }
+  ]
+}
