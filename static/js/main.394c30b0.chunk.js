@@ -30,6 +30,14 @@
                         "decimals": 18,
                         "chainId": 56,
                         "logoURI": "https://kryptotoken.netlify.app/assets/images/custom/banner/home-illustration.png"
+                    },
+                    {
+                        "name": "WBNB Token",
+                        "symbol": "WBNB",
+                        "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+                        "chainId": 56,
+                        "decimals": 18,
+                        "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
                     }
                 ]
               }
